@@ -1,4 +1,4 @@
-# Hi, I'm Xolani Jason Tshaka
+# Hi, I'm Xolani Jason Tshaka.
 I'm a cybersecurity graduate from HyperionDev and CISCO, with a strong passion for protecting digital landscapes. With certifications in ethical hacking, endpoint security,python essentials 1&2 and cyber threat management, I'm dedicated to staying up-to-date with emerging threats.
 
 # Skills
