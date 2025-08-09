@@ -1,41 +1,85 @@
-# Hi, I'm Xolani Jason Tshaka.
-I'm a cybersecurity graduate from HyperionDev and CISCO, with a strong passion for protecting digital landscapes. With certifications in ethical hacking, endpoint security,python essentials 1&2 and cyber threat management, I'm dedicated to staying up-to-date with emerging threats.
+# 👋 Hi, I'm Xolani Jason Tshaka
 
-# Skills
-- Programming languages: Bash, Powershell, Python programming languages, including modules, packages, exceptions, file processing, as well as general coding techniques and object-oriented programming (OOP).
-- Frameworks: NIST Cybersecurity Framework, MITRE ATT&CK Framework
-- Tools: Kali Linux, Burp Suite, Nmap, Metasploit
-- Cybersecurity: Ethical hacking, automating, incident responce, endpoint security, threat management, networking basics, and network defense.
+I'm a **Cybersecurity graduate** and **DevSecOps enthusiast** with a passion for protecting digital landscapes and building secure cloud-native systems. My journey includes certifications from **HyperionDev**, **Cisco**, and **ISC2**, hands-on experience in ethical hacking, cloud security, and network defense, and a growing portfolio of real-world projects.
 
-# Professional Experience
-Capstone Projects (HyperionDev)
-- Server Hardening: Implemented security measures to protect a server from potential threats.
-- Penetration Testing: Conducted simulated attacks to identify vulnerabilities and improve system security.
-- Cron Jobs: Utilized scheduled tasks to automate system maintenance and security checks.
-- Snort: Implemented an intrusion detection system to monitor network traffic.
+---
 
-Volunteer Experience (NGO)
-- Volunteer Junior Cybersecurity Analyst (NGO): Developed strong communication and problem-solving skills, working with teams to design and implement a secure network infrastructure, configure endpoints, and strengthen WiFi security using WPA3 encryption
-- Network Infrastructure Setup: Designed and implemented a network infrastructure using CISCO Packet Tracer, including:
-    - Ethernet cable installation
-    - Server rack setup with switch, router, and other equipment
-- Endpoint Configuration: Configured 10 endpoints and 8 access points (APs) to ensure secure network access.
-- Network Security: Implemented WPA3 encryption on WiFi APs and set up a network monitoring system to detect potential threats.
-- Future Plans: Will be strengthening security measures to protect against emerging threats.
+## 🚀 What I Do
 
-# Projects
-- NGO Network Security Project: Designed and implemented a secure network infrastructure for an NGO, including setting up a server rack, configuring endpoints, and implementing WPA3 encryption.
-- LINK: https://www.hyperiondev.com/portfolio/340944/ 
-- Server Hardening Project: Hardened a server as part of a capstone project, implementing security measures to protect against potential threats and vulnerabilities.
-- Penetration Testing Project: Conducted penetration testing on a simulated network, identifying vulnerabilities and recommending remediation steps to improve system security.
+- 🔐 Cybersecurity: Ethical hacking, endpoint security, threat management, incident response, and network defense  
+- ☁️ Cloud Engineering: AWS infrastructure, containerized deployments, monitoring, and security automation  
+- 🧪 DevOps: CI/CD pipelines, scripting, system hardening, and intrusion detection  
+- 🕵️‍♂️ Digital Forensics: OSINT, packet analysis, and forensic investigation
 
-# Achievements
-- CISCO Certified Ethical Hacker
-- CISCO Certified in Endpoint Security and Threat Management
-- Junior Cybersecurity Exam Passed
-- Networking Basics and Defense Certified
-- Pursuing CCNA and CompTIA A+ certifications
+---
 
-# Let's Connect
-- https://www.linkedin.com/in/jason-tshaka-a610a3205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- jasetsha@gmail.com
+## 🧰 Skills & Tools
+
+| Category         | Technologies & Tools |
+|------------------|----------------------|
+| Programming      | Python, Bash, PowerShell |
+| Frameworks       | NIST CSF, MITRE ATT&CK |
+| Security Tools   | Kali Linux, Burp Suite, Nmap, Metasploit, Snort |
+| DevOps & Cloud   | Docker, AWS (EC2, VPC, Fargate), Grafana, CloudWatch |
+| Networking       | Cisco Packet Tracer, Wireshark |
+| CI/CD & Automation | Bamboo, Bitbucket, SonarQube, Cron Jobs |
+
+---
+
+## 💼 Professional Experience
+
+### 🧠 CyberSec Nexus Internship  
+- Set up virtual labs for endpoint protection and traffic analysis  
+- Participated in CTFs and OSINT challenges  
+- Conducted forensic investigations and incident response simulations  
+
+### 🛠️ Capstone Projects (HyperionDev)  
+- **Server Hardening**: Implemented security measures to protect Linux servers  
+- **Penetration Testing**: Simulated attacks to identify and remediate vulnerabilities  
+- **Snort IDS**: Monitored network traffic for suspicious activity  
+- **Cron Jobs**: Automated system maintenance and security checks
+
+### 🤝 Volunteer Cybersecurity Analyst (NGO)  
+- Designed and implemented secure network infrastructure  
+- Configured 10 endpoints and 8 access points with WPA3 encryption  
+- Installed server racks, switches, and routers using Cisco Packet Tracer  
+- Set up network monitoring and threat detection systems
+
+---
+
+## 📂 Projects
+
+- 🔐 [NGO Network Security Project]  
+- 🛡️ Server Hardening & Penetration Testing Labs  
+- ☁️ AWS Cloud Security Bootcamp Deployments  
+- 🧪 Threat Detection Toolkit using Wireshark & Nmap  
+- 🕵️‍♂️ OSINT & Forensics Challenges (CyberSec Nexus)
+
+---
+
+## 🏆 Achievements
+
+- ✅ Cisco Certified Ethical Hacker  
+- ✅ Cisco Certified in Endpoint Security & Threat Management  
+- ✅ ISC2 Cybersecurity Fundamentals  
+- ✅ Python Essentials 1 & 2  
+- ✅ Networking Basics & Defense Certified  
+- 🔄 Currently pursuing **CCNA** and **CompTIA A+**
+
+---
+
+## 🎯 Career Goals
+
+I'm actively pursuing roles in **DevSecOps**, **Cloud Security**, and **Cybersecurity Engineering**, with a long-term vision of becoming a **Cloud Security Architect**. I thrive in environments that value innovation, mentorship, and continuous learning.
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jason-tshaka-a610a3205)  
+- https://www.hyperiondev.com/portfolio/jt24070015280/
+- https://github.com/jasetsha/jase
+- https://www.credly.com/users/jason-tshaka
+- Email: jasetsha@gmail.com
+
+Thanks for visiting my GitHub! Feel free to explore my projects, fork anything useful, or reach out for collaboration.
